@@ -1,0 +1,16 @@
+C:\Users\Sys\Desktop\DevPatikaC#\Diziler\bin\Debug\net5.0\Diziler.exe
+C:\Users\Sys\Desktop\DevPatikaC#\Diziler\bin\Debug\net5.0\Diziler.deps.json
+C:\Users\Sys\Desktop\DevPatikaC#\Diziler\bin\Debug\net5.0\Diziler.runtimeconfig.json
+C:\Users\Sys\Desktop\DevPatikaC#\Diziler\bin\Debug\net5.0\Diziler.runtimeconfig.dev.json
+C:\Users\Sys\Desktop\DevPatikaC#\Diziler\bin\Debug\net5.0\Diziler.dll
+C:\Users\Sys\Desktop\DevPatikaC#\Diziler\bin\Debug\net5.0\ref\Diziler.dll
+C:\Users\Sys\Desktop\DevPatikaC#\Diziler\bin\Debug\net5.0\Diziler.pdb
+C:\Users\Sys\Desktop\DevPatikaC#\Diziler\obj\Debug\net5.0\Diziler.csproj.AssemblyReference.cache
+C:\Users\Sys\Desktop\DevPatikaC#\Diziler\obj\Debug\net5.0\Diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sys\Desktop\DevPatikaC#\Diziler\obj\Debug\net5.0\Diziler.AssemblyInfoInputs.cache
+C:\Users\Sys\Desktop\DevPatikaC#\Diziler\obj\Debug\net5.0\Diziler.AssemblyInfo.cs
+C:\Users\Sys\Desktop\DevPatikaC#\Diziler\obj\Debug\net5.0\Diziler.csproj.CoreCompileInputs.cache
+C:\Users\Sys\Desktop\DevPatikaC#\Diziler\obj\Debug\net5.0\Diziler.dll
+C:\Users\Sys\Desktop\DevPatikaC#\Diziler\obj\Debug\net5.0\ref\Diziler.dll
+C:\Users\Sys\Desktop\DevPatikaC#\Diziler\obj\Debug\net5.0\Diziler.pdb
+C:\Users\Sys\Desktop\DevPatikaC#\Diziler\obj\Debug\net5.0\Diziler.genruntimeconfig.cache
