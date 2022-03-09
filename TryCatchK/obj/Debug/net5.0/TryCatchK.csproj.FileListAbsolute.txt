@@ -1,0 +1,16 @@
+C:\Users\Sys\Desktop\DevPatikaC#\TryCatchK\bin\Debug\net5.0\TryCatchK.exe
+C:\Users\Sys\Desktop\DevPatikaC#\TryCatchK\bin\Debug\net5.0\TryCatchK.deps.json
+C:\Users\Sys\Desktop\DevPatikaC#\TryCatchK\bin\Debug\net5.0\TryCatchK.runtimeconfig.json
+C:\Users\Sys\Desktop\DevPatikaC#\TryCatchK\bin\Debug\net5.0\TryCatchK.runtimeconfig.dev.json
+C:\Users\Sys\Desktop\DevPatikaC#\TryCatchK\bin\Debug\net5.0\TryCatchK.dll
+C:\Users\Sys\Desktop\DevPatikaC#\TryCatchK\bin\Debug\net5.0\ref\TryCatchK.dll
+C:\Users\Sys\Desktop\DevPatikaC#\TryCatchK\bin\Debug\net5.0\TryCatchK.pdb
+C:\Users\Sys\Desktop\DevPatikaC#\TryCatchK\obj\Debug\net5.0\TryCatchK.csproj.AssemblyReference.cache
+C:\Users\Sys\Desktop\DevPatikaC#\TryCatchK\obj\Debug\net5.0\TryCatchK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sys\Desktop\DevPatikaC#\TryCatchK\obj\Debug\net5.0\TryCatchK.AssemblyInfoInputs.cache
+C:\Users\Sys\Desktop\DevPatikaC#\TryCatchK\obj\Debug\net5.0\TryCatchK.AssemblyInfo.cs
+C:\Users\Sys\Desktop\DevPatikaC#\TryCatchK\obj\Debug\net5.0\TryCatchK.csproj.CoreCompileInputs.cache
+C:\Users\Sys\Desktop\DevPatikaC#\TryCatchK\obj\Debug\net5.0\TryCatchK.dll
+C:\Users\Sys\Desktop\DevPatikaC#\TryCatchK\obj\Debug\net5.0\ref\TryCatchK.dll
+C:\Users\Sys\Desktop\DevPatikaC#\TryCatchK\obj\Debug\net5.0\TryCatchK.pdb
+C:\Users\Sys\Desktop\DevPatikaC#\TryCatchK\obj\Debug\net5.0\TryCatchK.genruntimeconfig.cache
