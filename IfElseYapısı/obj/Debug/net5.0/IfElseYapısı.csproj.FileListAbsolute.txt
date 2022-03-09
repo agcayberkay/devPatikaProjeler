@@ -1,0 +1,16 @@
+C:\Users\Sys\Desktop\DevPatikaC#\IfElseYapısı\bin\Debug\net5.0\IfElseYapısı.exe
+C:\Users\Sys\Desktop\DevPatikaC#\IfElseYapısı\bin\Debug\net5.0\IfElseYapısı.deps.json
+C:\Users\Sys\Desktop\DevPatikaC#\IfElseYapısı\bin\Debug\net5.0\IfElseYapısı.runtimeconfig.json
+C:\Users\Sys\Desktop\DevPatikaC#\IfElseYapısı\bin\Debug\net5.0\IfElseYapısı.runtimeconfig.dev.json
+C:\Users\Sys\Desktop\DevPatikaC#\IfElseYapısı\bin\Debug\net5.0\IfElseYapısı.dll
+C:\Users\Sys\Desktop\DevPatikaC#\IfElseYapısı\bin\Debug\net5.0\ref\IfElseYapısı.dll
+C:\Users\Sys\Desktop\DevPatikaC#\IfElseYapısı\bin\Debug\net5.0\IfElseYapısı.pdb
+C:\Users\Sys\Desktop\DevPatikaC#\IfElseYapısı\obj\Debug\net5.0\IfElseYapısı.csproj.AssemblyReference.cache
+C:\Users\Sys\Desktop\DevPatikaC#\IfElseYapısı\obj\Debug\net5.0\IfElseYapısı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sys\Desktop\DevPatikaC#\IfElseYapısı\obj\Debug\net5.0\IfElseYapısı.AssemblyInfoInputs.cache
+C:\Users\Sys\Desktop\DevPatikaC#\IfElseYapısı\obj\Debug\net5.0\IfElseYapısı.AssemblyInfo.cs
+C:\Users\Sys\Desktop\DevPatikaC#\IfElseYapısı\obj\Debug\net5.0\IfElseYapısı.csproj.CoreCompileInputs.cache
+C:\Users\Sys\Desktop\DevPatikaC#\IfElseYapısı\obj\Debug\net5.0\IfElseYapısı.dll
+C:\Users\Sys\Desktop\DevPatikaC#\IfElseYapısı\obj\Debug\net5.0\ref\IfElseYapısı.dll
+C:\Users\Sys\Desktop\DevPatikaC#\IfElseYapısı\obj\Debug\net5.0\IfElseYapısı.pdb
+C:\Users\Sys\Desktop\DevPatikaC#\IfElseYapısı\obj\Debug\net5.0\IfElseYapısı.genruntimeconfig.cache
