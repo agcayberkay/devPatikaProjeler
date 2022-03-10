@@ -1,0 +1,16 @@
+C:\Users\Sys\Desktop\DevPatikaC#\Rekürsif ve Extension\bin\Debug\net5.0\Rekürsif ve Extension.exe
+C:\Users\Sys\Desktop\DevPatikaC#\Rekürsif ve Extension\bin\Debug\net5.0\Rekürsif ve Extension.deps.json
+C:\Users\Sys\Desktop\DevPatikaC#\Rekürsif ve Extension\bin\Debug\net5.0\Rekürsif ve Extension.runtimeconfig.json
+C:\Users\Sys\Desktop\DevPatikaC#\Rekürsif ve Extension\bin\Debug\net5.0\Rekürsif ve Extension.runtimeconfig.dev.json
+C:\Users\Sys\Desktop\DevPatikaC#\Rekürsif ve Extension\bin\Debug\net5.0\Rekürsif ve Extension.dll
+C:\Users\Sys\Desktop\DevPatikaC#\Rekürsif ve Extension\bin\Debug\net5.0\ref\Rekürsif ve Extension.dll
+C:\Users\Sys\Desktop\DevPatikaC#\Rekürsif ve Extension\bin\Debug\net5.0\Rekürsif ve Extension.pdb
+C:\Users\Sys\Desktop\DevPatikaC#\Rekürsif ve Extension\obj\Debug\net5.0\Rekürsif ve Extension.csproj.AssemblyReference.cache
+C:\Users\Sys\Desktop\DevPatikaC#\Rekürsif ve Extension\obj\Debug\net5.0\Rekürsif ve Extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sys\Desktop\DevPatikaC#\Rekürsif ve Extension\obj\Debug\net5.0\Rekürsif ve Extension.AssemblyInfoInputs.cache
+C:\Users\Sys\Desktop\DevPatikaC#\Rekürsif ve Extension\obj\Debug\net5.0\Rekürsif ve Extension.AssemblyInfo.cs
+C:\Users\Sys\Desktop\DevPatikaC#\Rekürsif ve Extension\obj\Debug\net5.0\Rekürsif ve Extension.csproj.CoreCompileInputs.cache
+C:\Users\Sys\Desktop\DevPatikaC#\Rekürsif ve Extension\obj\Debug\net5.0\Rekürsif ve Extension.dll
+C:\Users\Sys\Desktop\DevPatikaC#\Rekürsif ve Extension\obj\Debug\net5.0\ref\Rekürsif ve Extension.dll
+C:\Users\Sys\Desktop\DevPatikaC#\Rekürsif ve Extension\obj\Debug\net5.0\Rekürsif ve Extension.pdb
+C:\Users\Sys\Desktop\DevPatikaC#\Rekürsif ve Extension\obj\Debug\net5.0\Rekürsif ve Extension.genruntimeconfig.cache
