@@ -1,0 +1,16 @@
+C:\Users\Sys\Desktop\DevPatikaC#\StaticKavramı\bin\Debug\net5.0\StaticKavramı.exe
+C:\Users\Sys\Desktop\DevPatikaC#\StaticKavramı\bin\Debug\net5.0\StaticKavramı.deps.json
+C:\Users\Sys\Desktop\DevPatikaC#\StaticKavramı\bin\Debug\net5.0\StaticKavramı.runtimeconfig.json
+C:\Users\Sys\Desktop\DevPatikaC#\StaticKavramı\bin\Debug\net5.0\StaticKavramı.runtimeconfig.dev.json
+C:\Users\Sys\Desktop\DevPatikaC#\StaticKavramı\bin\Debug\net5.0\StaticKavramı.dll
+C:\Users\Sys\Desktop\DevPatikaC#\StaticKavramı\bin\Debug\net5.0\ref\StaticKavramı.dll
+C:\Users\Sys\Desktop\DevPatikaC#\StaticKavramı\bin\Debug\net5.0\StaticKavramı.pdb
+C:\Users\Sys\Desktop\DevPatikaC#\StaticKavramı\obj\Debug\net5.0\StaticKavramı.csproj.AssemblyReference.cache
+C:\Users\Sys\Desktop\DevPatikaC#\StaticKavramı\obj\Debug\net5.0\StaticKavramı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sys\Desktop\DevPatikaC#\StaticKavramı\obj\Debug\net5.0\StaticKavramı.AssemblyInfoInputs.cache
+C:\Users\Sys\Desktop\DevPatikaC#\StaticKavramı\obj\Debug\net5.0\StaticKavramı.AssemblyInfo.cs
+C:\Users\Sys\Desktop\DevPatikaC#\StaticKavramı\obj\Debug\net5.0\StaticKavramı.csproj.CoreCompileInputs.cache
+C:\Users\Sys\Desktop\DevPatikaC#\StaticKavramı\obj\Debug\net5.0\StaticKavramı.dll
+C:\Users\Sys\Desktop\DevPatikaC#\StaticKavramı\obj\Debug\net5.0\ref\StaticKavramı.dll
+C:\Users\Sys\Desktop\DevPatikaC#\StaticKavramı\obj\Debug\net5.0\StaticKavramı.pdb
+C:\Users\Sys\Desktop\DevPatikaC#\StaticKavramı\obj\Debug\net5.0\StaticKavramı.genruntimeconfig.cache
