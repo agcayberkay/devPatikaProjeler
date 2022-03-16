@@ -1,0 +1,16 @@
+C:\Users\Sys\Desktop\DevPatikaC#\ToDoUygulama\bin\Debug\net5.0\ToDoUygulama.exe
+C:\Users\Sys\Desktop\DevPatikaC#\ToDoUygulama\bin\Debug\net5.0\ToDoUygulama.deps.json
+C:\Users\Sys\Desktop\DevPatikaC#\ToDoUygulama\bin\Debug\net5.0\ToDoUygulama.runtimeconfig.json
+C:\Users\Sys\Desktop\DevPatikaC#\ToDoUygulama\bin\Debug\net5.0\ToDoUygulama.runtimeconfig.dev.json
+C:\Users\Sys\Desktop\DevPatikaC#\ToDoUygulama\bin\Debug\net5.0\ToDoUygulama.dll
+C:\Users\Sys\Desktop\DevPatikaC#\ToDoUygulama\bin\Debug\net5.0\ref\ToDoUygulama.dll
+C:\Users\Sys\Desktop\DevPatikaC#\ToDoUygulama\bin\Debug\net5.0\ToDoUygulama.pdb
+C:\Users\Sys\Desktop\DevPatikaC#\ToDoUygulama\obj\Debug\net5.0\ToDoUygulama.csproj.AssemblyReference.cache
+C:\Users\Sys\Desktop\DevPatikaC#\ToDoUygulama\obj\Debug\net5.0\ToDoUygulama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sys\Desktop\DevPatikaC#\ToDoUygulama\obj\Debug\net5.0\ToDoUygulama.AssemblyInfoInputs.cache
+C:\Users\Sys\Desktop\DevPatikaC#\ToDoUygulama\obj\Debug\net5.0\ToDoUygulama.AssemblyInfo.cs
+C:\Users\Sys\Desktop\DevPatikaC#\ToDoUygulama\obj\Debug\net5.0\ToDoUygulama.csproj.CoreCompileInputs.cache
+C:\Users\Sys\Desktop\DevPatikaC#\ToDoUygulama\obj\Debug\net5.0\ToDoUygulama.dll
+C:\Users\Sys\Desktop\DevPatikaC#\ToDoUygulama\obj\Debug\net5.0\ref\ToDoUygulama.dll
+C:\Users\Sys\Desktop\DevPatikaC#\ToDoUygulama\obj\Debug\net5.0\ToDoUygulama.pdb
+C:\Users\Sys\Desktop\DevPatikaC#\ToDoUygulama\obj\Debug\net5.0\ToDoUygulama.genruntimeconfig.cache
